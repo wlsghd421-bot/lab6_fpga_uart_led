@@ -1,0 +1,6 @@
+vivado_out/
+*.out
+*.vcd
+*.jou
+*.log
+.Xil/

@@ -1,0 +1,9 @@
+{
+    "sources": [
+        "src/led_command.v",
+        "src/mcu_fpga_uart.v",
+        "src/uart.v"
+    ],
+    "testbench": "sim/tb_mcu_fpga_uart.sv",
+    "simulation_top": "tb"
+}
